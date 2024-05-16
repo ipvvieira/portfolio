@@ -1,0 +1,143 @@
+
+/*estilo do cabeçalho*/
+header {
+    text-align: center; 
+    padding: 20px;
+    font-family: Cambria;
+    background-color: #484846;
+    color: #ffffff;
+  }
+  /*estilo do menu de navegação*/
+  nav {   
+    text-align: center;
+    word-spacing: 30px;
+    letter-spacing: 1px;
+    padding: 15px;
+    background-color: #484846
+  }
+  
+  /*estilo do botão da barra de navegação*/
+  nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: larger;
+  }
+  
+  /*estilo da secao sobre mim */
+  .secao1 {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: #484846;
+    color:#ffffff;
+    font-family: Cambria; 
+  }
+  
+  .espacamento-secao1 {
+    flex: 70%;
+    padding: 10px;
+  }
+  .perfil {
+    flex: 70%;
+    padding: 20px;
+    text-align: justify;
+    font-family: Cambria;  
+  }
+  /*imagem de perfil e estilo de cabeçalho*/
+  .perfil img {
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 10%;
+    max-width: 10%;
+    border-radius: 50%;  
+  }
+
+  /*estilo da seção de projetos*/
+  .meus-projetos{
+    flex: 70%;
+    padding: 20px;
+    text-align: justify;
+    font-family: Cambria
+  }
+
+  .meus-projetos img{       
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-height: 50%;
+    max-width: 50%;
+   }
+
+   .meus-projetos figcaption{
+    text-align: center;
+   }
+ 
+   /*estilo da seção de rodape*/
+  .footer{  
+    text-align: center; 
+    padding: 20px;
+    font-family: Cambria;
+    vertical-align: middle;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .span{
+    margin        : 0;
+    padding       : 0;
+    border        : 0;
+    font-size     : 100%;
+    font          : inherit;
+    vertical-align: baseline;
+  }
+  
+  /*delimitador da tabela utilizada para layout*/
+  .tabela{
+    table-layout: fixed;
+    font-family: Cambria;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;  
+    background-color: #484846;
+    color: #ffffff;  
+  }
+  
+  /*delimitador do formulario*/
+  .tabela-form{
+    table-layout: fixed;
+    font-family: Cambria;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+  
+  /*estilo da secao com links para redes sociais*/
+  .redes-sociais{
+    display: inline-block;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Cambria;
+    text-align: center;
+  }
+  
+  .h1{
+    text-align: center;
+    font-family: Cambria;
+  }
+  
+  .center{
+    text-align: center;
+  }
+  
+  .titulo-branco-fundo-cinza{
+    font-family: Cambria;
+    text-align: center;
+    color: #ffffff;
+    background-color: #484846;
+    background-size: 100%;    
+  }
