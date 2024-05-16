@@ -44,8 +44,7 @@ header {
     font-family: Cambria;  
   }
   /*imagem de perfil e estilo de cabeçalho*/
-  .perfil img {
-    width: 200px;
+  .perfil img {    
     display: block;
     margin-left: auto;
     margin-right: auto;
