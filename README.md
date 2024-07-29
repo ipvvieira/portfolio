@@ -2,7 +2,7 @@ Este repositório contém os arquivos da minha página de portfolio https://ipvv
 
 Scripts HTML, javascript, CSS e arquivos necessários.
 
-Dentro da pasta "codes" podem ser vistos e baixados os códigos utilizados em meus projetos.
+Mude para a branch "codes" para ver e baixar os códigos utilizados em meus projetos.
 
 -----------------------
 
@@ -12,4 +12,4 @@ This repository contains the files from my portfolio website https://ipvvieira.g
 
 HTML, javascript, CSS and other necessary files.
 
-Inside the folder "codes" you can check and download the codes used in my projects. 
+Change to "codes" branch so you can check and download the codes used in my projects. 
